@@ -2,7 +2,7 @@ import "./container.css";
 
 const Container = () => {
   return (
-  <div className="add-container">
+  <div className="wrapper-container">
     Container
     </div>
   )

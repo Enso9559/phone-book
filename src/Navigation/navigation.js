@@ -2,7 +2,7 @@ import "./navigation.css";
 
 const Navigation = () => {
   return (
-  <div className="add-navigation">
+  <div className="wrapper-navigation">
     Navigation
     </div>
   )

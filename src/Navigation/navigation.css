@@ -1,8 +1,6 @@
-.add-navigation {
-    grid-area: navigation;
-    background-color: rgb(100, 99, 97);
-    font-size: calc(8px + 2vmin); /* Шрифт */
-    color: white;
-
-
+.wrapper-navigation {
+  grid-area: navigation;
+  background-color: #575757;
+  font-size: 16px;
+  color: #fff;
 }
