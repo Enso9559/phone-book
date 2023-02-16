@@ -1,0 +1,8 @@
+.add-container {
+    grid-area: container;
+    background-color:rgb(121, 118, 110);
+    font-size: calc(8px + 2vmin); /* Шрифт */
+    color: white;
+
+
+}
