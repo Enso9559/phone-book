@@ -1,6 +1,6 @@
-import Container from "../../Container/container";
-import Navigation from "../../Navigation/navigation";
-import "./phoneBook.css";
+import Container from "../../Container/Index";
+import Navigation from "../../Navigation/Index";
+import "./PhoneBook.css";
 
 const PhoneBookPage = () => {
   return (

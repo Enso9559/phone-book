@@ -1,8 +1,6 @@
 .wrapper-header {
   display: grid;
-
   grid-template-areas: "navigation container";
-
   grid-template-columns: 2fr 8fr;
   min-height: 85vh;
 }

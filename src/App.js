@@ -1,6 +1,6 @@
 import { BrowserRouter } from "react-router-dom";
 import "./App.css";
-import PhoneBook from "./pages/pages";
+import PhoneBook from "./pages/Index";
 
 const App = () => {
   return (
