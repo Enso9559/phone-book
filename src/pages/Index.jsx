@@ -1,8 +1,6 @@
 import PhoneBookPage from "./phoneBook";
 import "./Pages.css";
 
-const PhoneBook = () => {
-  return <PhoneBookPage />;
-};
+const PhoneBook = () =>  <PhoneBookPage />;
 
 export default PhoneBook;

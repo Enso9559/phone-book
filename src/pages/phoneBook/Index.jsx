@@ -1,9 +1,8 @@
-import Container from "../../Container";
-import Navigation from "../../Navigation";
+import Container from "../../components/Container";
+import Navigation from "../../components/Navigation";
 import "./PhoneBook.css";
 
-const PhoneBookPage = () => {
-  return (
+const PhoneBookPage = () => (
     <div className="App">
       <div className="wrapper-header">
         <Navigation />
@@ -12,6 +11,5 @@ const PhoneBookPage = () => {
       <footer className="footer">Footer</footer>
     </div>
   );
-};
 
 export default PhoneBookPage;
