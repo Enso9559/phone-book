@@ -1,4 +1,4 @@
-import PhoneBookPage from "./phoneBook/Index";
+import PhoneBookPage from "./phoneBook";
 import "./Pages.css";
 
 const PhoneBook = () => {

@@ -1,11 +1,9 @@
 import "./Container.css";
 
-const Container = () => {
-  return (
+const Container = () => (
   <div className="wrapper-container">
     Container
     </div>
   )
-};
 
 export default Container;

@@ -1,11 +1,9 @@
 import "./Navigation.css";
 
-const Navigation = () => {
-  return (
+const Navigation = () => (
   <div className="wrapper-navigation">
     Navigation
     </div>
   )
-};
 
 export default Navigation;

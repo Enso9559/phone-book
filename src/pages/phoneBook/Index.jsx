@@ -1,5 +1,5 @@
-import Container from "../../Container/Index";
-import Navigation from "../../Navigation/Index";
+import Container from "../../Container";
+import Navigation from "../../Navigation";
 import "./PhoneBook.css";
 
 const PhoneBookPage = () => {
@@ -9,7 +9,7 @@ const PhoneBookPage = () => {
         <Navigation />
         <Container />
       </div>
-      <footer className="foter">Footer</footer>
+      <footer className="footer">Footer</footer>
     </div>
   );
 };
