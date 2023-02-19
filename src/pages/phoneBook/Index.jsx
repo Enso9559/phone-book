@@ -1,6 +1,6 @@
 import Container from "../../components/Container";
 import Navigation from "../../components/Navigation";
-import s from "./phoneBook.module.css";
+import s from "./phoneBook.module.scss";
 
 const PhoneBookPage = () => (
   <div className="App">

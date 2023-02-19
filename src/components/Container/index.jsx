@@ -1,4 +1,4 @@
-import s from "./Container.module.css";
+import s from "./Container.module.scss";
 
 const Container = () => <div className={s.wrapper}>Container</div>;
 
