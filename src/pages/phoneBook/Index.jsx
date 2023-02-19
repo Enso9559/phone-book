@@ -1,14 +1,14 @@
 import Container from "../../components/Container";
 import Navigation from "../../components/Navigation";
-import "./phoneBook.css";
+import s from "./phoneBook.module.css";
 
 const PhoneBookPage = () => (
   <div className="App">
-    <div className="wrapper-header">
+    <div className={s.wrapperHeader}>
       <Navigation />
       <Container />
     </div>
-    <footer className="footer">Footer</footer>
+    <footer className={s.footer}>Footer</footer>
   </div>
 );
 

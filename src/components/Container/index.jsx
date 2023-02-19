@@ -1,5 +1,5 @@
-import "./Container.css";
+import s from "./Container.module.css";
 
-const Container = () => <div className="wrapper-container">Container</div>;
+const Container = () => <div className={s.wrapper}>Container</div>;
 
 export default Container;
