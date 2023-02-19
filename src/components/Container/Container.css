@@ -1,0 +1,6 @@
+.wrapper-container {
+  grid-area: container;
+  background-color: #474747;
+  font-size: 16px;
+  color: #fff;
+}
