@@ -1,5 +1,5 @@
 import PhoneBookPage from "./phoneBook";
-import "./Pages.css";
+import "./pages.css";
 
 const PhoneBook = () => <PhoneBookPage />;
 
