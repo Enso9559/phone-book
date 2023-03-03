@@ -2,14 +2,15 @@ import Container from "../../components/Container";
 import Navigation from "../../components/Navigation";
 import s from "./phoneBook.module.scss";
 
-const PhoneBookPage = () => (
-  <div className="App">
-    <div className={s.wrapperHeader}>
-      <Navigation />
-      <Container />
+const PhoneBookPage = () => {
+  return (
+    <div className="App">
+      <div className={s.wrapperHeader}>
+        <Navigation />
+        <Container />
+      </div>
+      <footer className={s.footer}>Footer</footer>
     </div>
-    <footer className={s.footer}>Footer</footer>
-  </div>
-);
-
+  );
+};
 export default PhoneBookPage;
