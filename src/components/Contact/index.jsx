@@ -1,9 +1,9 @@
 import { Link } from "react-router-dom";
-import s from "./Contact.module.scss";
+import styles from "./Contact.module.scss";
 
 const Contact = () => {
   return (
-    <div className={s.wrapper}>
+    <div className={styles.wrapper}>
       <div>
         <Link to="/person-1">Person 1</Link>
       </div>

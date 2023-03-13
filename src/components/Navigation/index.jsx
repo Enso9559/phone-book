@@ -1,5 +1,5 @@
 import Contact from "../Contact";
-import s from "./Navigation.module.scss";
+import styles from "./Navigation.module.scss";
 
 const Navigation = () => <Contact />;
 
