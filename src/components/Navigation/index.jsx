@@ -1,5 +1,6 @@
-import "./Navigation.css";
+import Contact from "../Contact";
+import styles from "./Navigation.module.scss";
 
-const Navigation = () => <div className="wrapper-navigation">Navigation</div>;
+const Navigation = () => <Contact />;
 
 export default Navigation;
