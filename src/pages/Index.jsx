@@ -1,5 +1,4 @@
-import PhoneBookPage from "./phoneBook";
-import styles from "./pages.module.scss";
+import PhoneBookPage from './phoneBook';
 
 const PhoneBook = () => <PhoneBookPage />;
 

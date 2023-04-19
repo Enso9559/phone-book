@@ -1,6 +1,6 @@
-import Container from "../../components/Container";
-import Navigation from "../../components/Navigation";
-import styles from "./phoneBook.module.scss";
+import Container from '../../components/Container';
+import Navigation from '../../components/Navigation';
+import styles from './phoneBook.module.scss';
 
 const PhoneBookPage = () => {
   return (

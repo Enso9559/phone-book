@@ -1,5 +1,5 @@
-import { Link } from "react-router-dom";
-import styles from "./Contact.module.scss";
+import { Link } from 'react-router-dom';
+import styles from './Contact.module.scss';
 
 const Contact = () => {
   return (
