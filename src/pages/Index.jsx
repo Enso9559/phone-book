@@ -1,4 +1,5 @@
-import PhoneBookPage from './phoneBook';
+import React from 'react';
+import PhoneBookPage from './phoneBook/index';
 
 const PhoneBook = () => <PhoneBookPage />;
 
